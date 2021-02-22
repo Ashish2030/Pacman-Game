@@ -34,11 +34,11 @@
 <p align="center"><img src="./src/images/ezgif.com-gif-maker.gif" alt="github-profile-readme-generator gif" /></p>
 
 <p align="center">
-    <a href="https://ashish2030.github.io/gh-profile-readme-generator" target="blank">View Demo</a>
+    <a href="https://github.com/Ashish2030/pacman-Game" target="blank">View Demo</a>
     ·
-    <a href="https://github.com/ashish2030/github-profile-readme-generator/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/ashish2030/pacman-Game/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/ashish2030/github-profile-readme-generator/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/ashish2030/pacman-Game/issues/new/choose">Request Feature</a>
 </p>
 
 
