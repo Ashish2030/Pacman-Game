@@ -31,7 +31,7 @@
 </a>
 </p>
 
-<p align="center"><img src="./src/images/ezgif.com-gif-maker.gif" alt="github-profile-readme-generator gif" /></p>
+<p align="center"><img src=" ./src/images/ezgif.com-gif-maker.gif" alt="github-profile-readme-generator gif" /></p>
 
 <p align="center">
     <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">View Demo</a>
